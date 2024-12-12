@@ -50,7 +50,7 @@ class HomeController extends GetxController {
     MenuEntity(
       icon: Icons.admin_panel_settings,
       label: 'restricted_area'.tr,
-      route: AppRoutes.calendar,
+      route: AppRoutes.auth,
       external: false,
     )
   ];
